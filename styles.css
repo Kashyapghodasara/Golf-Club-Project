@@ -62,7 +62,7 @@
 }
 
 .footer-class {
-    background: url('Image/Footer.svg') no-repeat center center;
+    background: url(Image/Footer.svg) no-repeat center center;
     background-size: 100% auto;
     position: relative;
     width: 100%;
@@ -115,7 +115,7 @@
 }
 
 .card {
-    background-image: url('Image/Rectangle\ 5908\ \(1\).svg');
+    background-image: url(Image/Rectangle\ 5908\ \(1\).svg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
