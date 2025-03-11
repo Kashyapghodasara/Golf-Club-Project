@@ -1,0 +1,13 @@
+/* @media (min-width: 1200px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: 1400px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+} */
+
+@media screen and (max-width: 1194px) {
+    .image-section-text {
+        transform: translateX(0) !important;
+    }
+}
