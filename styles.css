@@ -74,6 +74,7 @@
     position: relative;
     z-index: -1;
 }
+
 .footer-text {
     text-decoration: none;
     color: white;
@@ -83,6 +84,7 @@
         color: white;
     }
 }
+
 .footer-class {
     background: url(Image/Footer.svg) no-repeat center center;
     background-size: 100% auto;
@@ -155,15 +157,21 @@ h6 {
     font-weight: 300;
 }
 
-/* .main_heading {
-	padding-left: 100px;
-} */
 .image {
     border-radius: 15px;
     width: 420px;
     height: 300px;
 }
 
+.second-image-class {
+    transform: translateX(50px);
+}
+
 .image-section {
     transform: translateY(-120px);
+}
+
+.image-paragraph-section-text1,
+.image-paragraph-section-text3 {
+    font-size: 15px;
 }
